@@ -62,6 +62,9 @@ bb = str(zz)
 type_result_1 = type(bb)
 print (type_result_1)
 #task 8
-cc = x + str(yy) + str(zz)
+cc = xx + str(yy) + str(zz)
 type_result_2 = type(cc)
 print (f"result = {cc} and its type is {type_result_2}")
+#task 9
+dd = xx + yy
+print (dd)
